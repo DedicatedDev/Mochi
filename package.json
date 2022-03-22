@@ -32,7 +32,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-unused-imports": "^1.1.1",
     "ethereum-waffle": "^3.3.0",
-    "ethers": "^5.4.4",
+    "ethers": "^5.6.1",
     "ethlint": "^1.2.5",
     "hardhat": "^2.6.0",
     "hardhat-deploy": "^0.7.11",
